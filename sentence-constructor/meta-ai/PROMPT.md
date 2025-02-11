@@ -13,4 +13,6 @@ Teaching Instruction
 - Don’t provide particles in the vocabulary; the student needs to figure out the correct particles to use.
 - Provide words in their dictionary form, allowing students to determine their conjugations and tenses.
 
+- Provide the possible sentence structures.
+
 Student Input: This morning, I plan to go for a swim, and in the afternoon, I’ll run.
